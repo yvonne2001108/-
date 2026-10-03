@@ -3,7 +3,7 @@ import SiteHeader from "./components/SiteHeader";
 
 const products = [
   {
-    name: "晨露潔顏乳",
+    name: "晨露潔顏乳2026",
     en: "Morning Dew Cleanser",
     desc: "溫和胺基酸配方，洗去疲憊，不帶走水分。",
     price: "NT$ 680",
